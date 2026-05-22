@@ -1,8 +1,8 @@
 [
-    {"nama": "Jeruk", "namaLatin": "Citrus", "imageId": "jeruk"},
-    {"nama": "Mangga", "namaLatin": "Mangifera indica", "imageId": "mangga"},
-    {"nama": "Apel", "namaLatin": "Malus domestic", "imageId": "apel"},
-    {"nama": "Stroberi", "namaLatin": "Fragaria x ananassa", "imageId": "stroberi"},
-    {"nama": "Pisang", "namaLatin": "Musa paradisiaca", "imageId": "pisang"},
-    {"nama": "Pepaya", "namaLatin": " Carica papaya L", "imageId": "pepaya"}
+    {"nama": "Jeruk", "namaLatin": "Citrus", "imageId": "jeruk.jpg"},
+    {"nama": "Mangga", "namaLatin": "Mangifera indica", "imageId": "mangga.jpg"},
+    {"nama": "Apel", "namaLatin": "Malus domestic", "imageId": "apel.jpg"},
+    {"nama": "Stroberi", "namaLatin": "Fragaria x ananassa", "imageId": "stroberi.jpg"},
+    {"nama": "Pisang", "namaLatin": "Musa paradisiaca", "imageId": "pisang.jpg"},
+    {"nama": "Pepaya", "namaLatin": " Carica papaya L", "imageId": "pepaya.jpeg"}
 ]
